@@ -1,0 +1,39 @@
+﻿@model AltudoBtc1.Feature.DetailPage.Models.ReviewComment
+
+@using (Html.BeginForm())
+{
+
+    <div>
+        @Html.LabelFor(x => x.Name)
+    </div>
+
+    <div>
+        @Html.TextBoxFor(x => x.Name)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.EmailId)
+    </div>
+
+    <div>
+        @Html.TextBoxFor(x => x.EmailId)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.Rating)
+    </div>
+
+    <div>
+        @Html.TextBoxFor(x => x.Rating)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.Comment)
+    </div>
+
+    <div>
+        @Html.TextBoxFor(x => x.Comment)
+    </div>
+
+    <input type="submit" value="Submit" />
+}

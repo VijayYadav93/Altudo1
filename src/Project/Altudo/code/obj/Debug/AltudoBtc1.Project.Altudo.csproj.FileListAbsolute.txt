@@ -1,3 +1,5 @@
+C:\Project\Altudo-1\src\Project\Altudo\code\bin\App_Config\Include\Project\Altudo\Altudo.SiteDefinition.NorthEast.config
+C:\Project\Altudo-1\src\Project\Altudo\code\bin\App_Config\Include\Project\Altudo\Altudo.SiteDefinition.NorthIndia.config
 C:\Project\Altudo-1\src\Project\Altudo\code\bin\AltudoBtc1.Project.Altudo.dll.config
 C:\Project\Altudo-1\src\Project\Altudo\code\bin\AltudoBtc1.Project.Altudo.dll
 C:\Project\Altudo-1\src\Project\Altudo\code\bin\AltudoBtc1.Project.Altudo.pdb

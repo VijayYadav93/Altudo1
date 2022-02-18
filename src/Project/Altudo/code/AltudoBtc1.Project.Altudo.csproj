@@ -305,6 +305,12 @@
     <Content Include="ApplicationInsights.config" />
     <Content Include="Views\Altudo\ArticleAuthors.cshtml" />
     <Content Include="Views\Altudo\ListOfLeaders.cshtml" />
+    <Content Include="App_Config\Include\Project\Altudo\Altudo.SiteDefinition.NorthEast.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="App_Config\Include\Project\Altudo\Altudo.SiteDefinition.NorthIndia.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

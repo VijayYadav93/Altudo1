@@ -1,0 +1,30 @@
+﻿@model IEnumerable<AltudoBtc1.Feature.DetailPage.Models.ReviewComment>
+
+@foreach (var item in Model)
+{
+
+    <div>
+        -------------------------------
+    </div>
+    <div>
+        @item.Name
+    </div>
+
+    <div>
+        @item.EmailId
+    </div>
+
+    <div>
+        @item.Rating
+    </div>
+    <div>
+        @item.Comment
+    </div>
+    <div>
+        @item.PostedDate
+    </div>
+    <div>
+        -------------------------------
+    </div>
+}
+
