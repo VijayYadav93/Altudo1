@@ -1,0 +1,32 @@
+﻿---
+ID: "32bab1e2-3cdf-451c-a8d7-4b9fea574d79"
+Parent: "bfdc7577-2673-41c4-9668-02450ae1c694"
+Template: "bfdc7577-2673-41c4-9668-02450ae1c694"
+Path: /sitecore/templates/Project/VisitUs/Pages/Listings/Restaurants/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{C85D56B6-2C89-4399-B12C-D816F90AD2E0}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{029B416A-1100-4F83-85E7-79EB996DDADC}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220212T092428Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

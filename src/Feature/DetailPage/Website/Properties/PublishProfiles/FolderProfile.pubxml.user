@@ -5,14 +5,17 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Project\Altudo-1\publish</_PublishTargetUrl>
-    <History>True|2022-02-16T12:23:13.1907853Z;True|2022-02-16T17:33:16.3430833+05:30;True|2022-02-16T17:17:23.5644596+05:30;True|2022-02-16T17:07:27.1089082+05:30;True|2022-02-16T16:36:11.3569544+05:30;True|2022-02-16T16:32:25.9429816+05:30;True|2022-02-16T16:25:24.7209149+05:30;True|2022-02-16T16:19:50.7508721+05:30;True|2022-02-16T15:34:28.6304831+05:30;True|2022-02-16T15:04:59.0232014+05:30;True|2022-02-16T14:59:40.5948690+05:30;True|2022-02-16T14:50:28.7568700+05:30;True|2022-02-16T11:22:43.8740001+05:30;True|2022-02-16T11:19:13.9418299+05:30;True|2022-02-15T18:20:06.6579637+05:30;True|2022-02-15T16:30:14.8517196+05:30;True|2022-02-15T15:06:00.5425076+05:30;True|2022-02-15T14:46:00.1731514+05:30;True|2022-02-15T14:41:59.5457318+05:30;True|2022-02-15T14:25:33.7865610+05:30;True|2022-02-15T14:23:07.8746894+05:30;True|2022-02-15T13:11:47.6109075+05:30;</History>
+    <History>True|2022-02-23T18:55:17.3704457Z;True|2022-02-23T17:09:01.1959962+05:30;True|2022-02-21T15:04:49.8949459+05:30;True|2022-02-21T14:56:10.8518014+05:30;False|2022-02-21T14:53:10.6188217+05:30;True|2022-02-16T17:53:13.1907853+05:30;True|2022-02-16T17:33:16.3430833+05:30;True|2022-02-16T17:17:23.5644596+05:30;True|2022-02-16T17:07:27.1089082+05:30;True|2022-02-16T16:36:11.3569544+05:30;True|2022-02-16T16:32:25.9429816+05:30;True|2022-02-16T16:25:24.7209149+05:30;True|2022-02-16T16:19:50.7508721+05:30;True|2022-02-16T15:34:28.6304831+05:30;True|2022-02-16T15:04:59.0232014+05:30;True|2022-02-16T14:59:40.5948690+05:30;True|2022-02-16T14:50:28.7568700+05:30;True|2022-02-16T11:22:43.8740001+05:30;True|2022-02-16T11:19:13.9418299+05:30;True|2022-02-15T18:20:06.6579637+05:30;True|2022-02-15T16:30:14.8517196+05:30;True|2022-02-15T15:06:00.5425076+05:30;True|2022-02-15T14:46:00.1731514+05:30;True|2022-02-15T14:41:59.5457318+05:30;True|2022-02-15T14:25:33.7865610+05:30;True|2022-02-15T14:23:07.8746894+05:30;True|2022-02-15T13:11:47.6109075+05:30;</History>
   </PropertyGroup>
   <ItemGroup>
+    <File Include="App_Config/Include/Feature/DetailPage/Altudo.Feature.DetailPage.Serialization.config">
+      <publishTime>02/24/2022 00:11:55</publishTime>
+    </File>
     <File Include="bin/AltudoBtc1.Feature.DetailPage.dll">
-      <publishTime>02/16/2022 17:53:03</publishTime>
+      <publishTime>02/24/2022 00:25:16</publishTime>
     </File>
     <File Include="bin/AltudoBtc1.Feature.DetailPage.pdb">
-      <publishTime>02/16/2022 17:53:03</publishTime>
+      <publishTime>02/24/2022 00:25:16</publishTime>
     </File>
     <File Include="bin/HtmlAgilityPack.dll">
       <publishTime>07/14/2016 16:31:16</publishTime>
@@ -393,7 +396,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>02/15/2022 14:21:01</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>02/16/2022 17:53:12</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
   </ItemGroup>
 </Project>

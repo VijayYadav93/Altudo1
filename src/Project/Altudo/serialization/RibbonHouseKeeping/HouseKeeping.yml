@@ -1,0 +1,22 @@
+﻿---
+ID: "5a872409-3ee8-4779-9536-36b236801de9"
+Parent: "073bbb5d-65b5-485f-a1f8-64e55c84696e"
+Template: "ef295cd8-19d4-4e02-9438-94c926ef5284"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Ribbons/Default/HouseKeeping
+DB: core
+SharedFields:
+- ID: "c9ce97fb-3e8e-4384-9430-7dba75b275dd"
+  Hint: Reference
+  Value: "{B9ACE686-708D-4701-83CA-3672B2741E9F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220315T153627Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

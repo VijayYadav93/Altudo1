@@ -87,6 +87,7 @@ C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Framework.Conditions
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Framework.Data.Blobs.Abstractions.dll
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Framework.Data.Blobs.dll
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Kernel.dll
+C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.LayoutService.dll
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Logging.Client.dll
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Logging.dll
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Mvc.dll
@@ -149,6 +150,7 @@ C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Framework.Conditions
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Framework.Data.Blobs.xml
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Framework.Data.Blobs.Abstractions.xml
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Kernel.xml
+C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.LayoutService.xml
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Logging.xml
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Logging.Client.xml
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Sitecore.Web.xml
@@ -167,8 +169,8 @@ C:\Project\Altudo-1\src\Feature\Common\Website\bin\System.Web.Webpages.Razor.xml
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\System.Web.Helpers.xml
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\System.Web.Mvc.xml
 C:\Project\Altudo-1\src\Feature\Common\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\Altudo-1\src\Feature\Common\Website\obj\Debug\AltudoBtc1.Feature.Common.csproj.AssemblyReference.cache
 C:\Project\Altudo-1\src\Feature\Common\Website\obj\Debug\AltudoBtc1.Feature.Common.csproj.CoreCompileInputs.cache
 C:\Project\Altudo-1\src\Feature\Common\Website\obj\Debug\AltudoBtc1.Feature.Common.csproj.CopyComplete
 C:\Project\Altudo-1\src\Feature\Common\Website\obj\Debug\AltudoBtc1.Feature.Common.dll
 C:\Project\Altudo-1\src\Feature\Common\Website\obj\Debug\AltudoBtc1.Feature.Common.pdb
-C:\Project\Altudo-1\src\Feature\Common\Website\obj\Debug\AltudoBtc1.Feature.Common.csproj.AssemblyReference.cache

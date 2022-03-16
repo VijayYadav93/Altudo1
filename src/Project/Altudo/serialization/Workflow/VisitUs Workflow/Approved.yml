@@ -1,0 +1,23 @@
+﻿---
+ID: "3f622b4d-427e-48a1-a135-174ed3e273cd"
+Parent: "c74e6f9d-4026-4e0d-ba9f-4df1655af38f"
+Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
+Path: /sitecore/system/Workflows/VisitUs Workflow/Approved
+DB: master
+SharedFields:
+- ID: "fb8abc73-7acf-45a0-898c-d3ccb889c3ee"
+  Hint: Final
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T111317Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "239a62e0-93b9-4d32-be0b-bd40596ff834"
+Parent: "c74e6f9d-4026-4e0d-ba9f-4df1655af38f"
+Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
+Path: /sitecore/system/Workflows/VisitUs Workflow/Prepublishing
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T111303Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

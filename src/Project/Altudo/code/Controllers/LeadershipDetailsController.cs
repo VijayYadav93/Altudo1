@@ -16,7 +16,7 @@ namespace AltudoBtc1.Project.Altudo.Controllers
         // GET: LeadershipDetails
         public ActionResult Index()
         {
-            //var contextItem = Sitecore.Context.Item;
+            var contextItem = Sitecore.Context.Item;
 
             LeadershipDetails leadership;
             var renderingItem = RenderingContext.Current.Rendering.Item;
@@ -32,6 +32,7 @@ namespace AltudoBtc1.Project.Altudo.Controllers
 
                 leadership = new LeadershipDetails
                 {
+                    // we use FieldRenderer class for making experience editor value
                     Name = new HtmlString(FieldRenderer.Render(renderingItem, "Name")),
                     Designation = new HtmlString(renderingItem.Fields["Designation"].Value),
                     ContactNumber = new HtmlString(FieldRenderer.Render(renderingItem, "ContactNumber")),

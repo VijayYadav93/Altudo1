@@ -1,0 +1,28 @@
+﻿---
+ID: "fd4917e8-8b41-451d-bb07-fc5b0d1185fb"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/altudo-main"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "altudo-main"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {A7749367-6CE5-4305-A9E2-C6BA1FAB7ADC}
+    {A6DD1C50-8D5A-4867-A659-9BFD5AA49340}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T105437Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

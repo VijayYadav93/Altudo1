@@ -275,6 +275,7 @@
   <ItemGroup>
     <Compile Include="Controllers\DetailBlogController.cs" />
     <Compile Include="Controllers\DetailPageController.cs" />
+    <Compile Include="Controllers\FeatureCommentsController.cs" />
     <Compile Include="Controllers\HeroBannerController.cs" />
     <Compile Include="Controllers\ReviewCommentController.cs" />
     <Compile Include="Controllers\ReviewFormController.cs" />
@@ -292,6 +293,7 @@
     <Content Include="Views\Altudo\DetailPage\ReviewComment.cshtml" />
     <Content Include="Views\Altudo\DetailPage\ReviewForm.cshtml" />
     <Content Include="Views\Altudo\DetailPage\ThankYou.cshtml" />
+    <Content Include="App_Config\Include\Feature\DetailPage\Altudo.Feature.DetailPage.Serialization.config" />
     <None Include="Views\web.config" />
     <None Include="packages.config" />
     <Content Include="Views\_ViewStart.cshtml" />
@@ -307,6 +309,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\DetailBlog\" />
+    <Folder Include="Views\FeatureComments\" />
     <Folder Include="Views\ReviewComment\" />
     <Folder Include="Views\ReviewForm\" />
   </ItemGroup>

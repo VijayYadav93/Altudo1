@@ -1,0 +1,28 @@
+﻿---
+ID: "c2a8378c-809e-4a6b-a52c-ca6402ec4eac"
+Parent: "66738f84-31a9-43c9-9fcf-1515a849d6c5"
+Template: "8f3d8f9b-2d76-4ace-803f-35415d2b230a"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/GetChildItem Count
+DB: core
+SharedFields:
+- ID: "661c7d82-2c92-47d2-b41d-afc2dc5379aa"
+  Hint: Click
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220315T125415Z
+    - ID: "4061c1c7-dc71-4c1d-932d-22fd5a37adac"
+      Hint: Tooltip
+      Value: Click this to get child count
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c95d21bd-66c3-444b-a37f-d346cbaf2b55"
+      Hint: Header
+      Value: Child

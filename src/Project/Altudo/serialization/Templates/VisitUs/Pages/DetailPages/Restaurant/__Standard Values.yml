@@ -1,0 +1,37 @@
+﻿---
+ID: "b17dfb92-a1eb-4c6b-883b-5aae24af5a91"
+Parent: "c85d56b6-2c89-4399-b12c-d816f90ad2e0"
+Template: "c85d56b6-2c89-4399-b12c-d816f90ad2e0"
+Path: /sitecore/templates/Project/VisitUs/Pages/DetailPages/Restaurant/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{029B416A-1100-4F83-85E7-79EB996DDADC}">
+        <r
+          id="{767723D0-B8DD-4B4C-9205-7DA66F2615BE}"
+          ph="altudo-main"
+          uid="{0561D108-09B8-47A5-9AB4-9D7309BFB7A6}" />
+        <r
+          id="{920C16D8-66DE-480E-9E6B-810266D2000A}"
+          ph="altudo-main"
+          uid="{3C8D5301-486B-4BA5-AADD-A16BADF96BFC}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T084335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

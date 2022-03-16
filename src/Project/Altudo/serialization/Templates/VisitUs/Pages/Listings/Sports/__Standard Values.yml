@@ -1,0 +1,32 @@
+﻿---
+ID: "c5b816d5-1fbf-444b-86d2-f01a67cb122f"
+Parent: "df4f9371-4282-474e-b1cb-40406c1bb5de"
+Template: "df4f9371-4282-474e-b1cb-40406c1bb5de"
+Path: /sitecore/templates/Project/VisitUs/Pages/Listings/Sports/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{471D93CC-EAD5-481F-B3D2-A5B0B2C0E511}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{029B416A-1100-4F83-85E7-79EB996DDADC}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220212T092536Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

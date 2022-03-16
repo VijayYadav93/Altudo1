@@ -311,6 +311,7 @@
     <Content Include="App_Config\Include\Project\Altudo\Altudo.SiteDefinition.NorthIndia.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="App_Config\Include\Project\Altudo\Altudo.Project.Website.Serialization.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
