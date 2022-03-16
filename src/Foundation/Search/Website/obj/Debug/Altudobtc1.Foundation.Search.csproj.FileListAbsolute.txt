@@ -153,6 +153,7 @@ C:\Project\Altudo-1\src\Foundation\Search\Website\bin\System.Threading.Tasks.Ext
 C:\Project\Altudo-1\src\Foundation\Search\Website\bin\System.Web.Http.xml
 C:\Project\Altudo-1\src\Foundation\Search\Website\bin\System.Web.Http.WebHost.xml
 C:\Project\Altudo-1\src\Foundation\Search\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\Altudo-1\src\Foundation\Search\Website\obj\Debug\Altudobtc1.Foundation.Search.csproj.AssemblyReference.cache
 C:\Project\Altudo-1\src\Foundation\Search\Website\obj\Debug\Altudobtc1.Foundation.Search.csproj.CoreCompileInputs.cache
 C:\Project\Altudo-1\src\Foundation\Search\Website\obj\Debug\Altudobtc1.Foundation.Search.csproj.CopyComplete
 C:\Project\Altudo-1\src\Foundation\Search\Website\obj\Debug\Altudobtc1.Foundation.Search.dll
